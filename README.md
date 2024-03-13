@@ -1,8 +1,9 @@
 # MilkRoad - [Submitted] WWDC24 Swift Student Challenge Submission
 
-<center> 
-<img src="https://github.com/youngjungju/MilkRoad/assets/70834005/890c9fce-3538-4e6c-934f-ecdfbb153d27" width="200" height="200"/> 
-</center>
+
+<p align="center">
+  <img src="https://github.com/youngjungju/MilkRoad/assets/70834005/890c9fce-3538-4e6c-934f-ecdfbb153d27" width="200" height="200"/> 
+</p>
 
 
 ## Tell us about the features and technologies you used.
