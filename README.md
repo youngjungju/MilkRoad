@@ -1,5 +1,7 @@
 # MilkRoad - [Submitted] WWDC24 Swift Student Challenge Submission
 
+![Simulator Screenshot - iPad Pro (12 9-inch) (6th generation) - 2024-02-25 at 20 28 21](https://github.com/youngjungju/MilkRoad/assets/70834005/bade281e-b548-40df-82af-61b469e05d10)
+
 ## Tell us about the features and technologies you used.
 MilkRoad is a game that aims to make learning about how milk gets to your door easy and fun.
 
