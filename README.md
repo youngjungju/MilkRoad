@@ -2,9 +2,8 @@
 
 
 <p align="center">
-  <img src="https://github.com/youngjungju/MilkRoad/assets/70834005/890c9fce-3538-4e6c-934f-ecdfbb153d27" width="200" height="200"/> 
+  <img src="https://github.com/youngjungju/MilkRoad/assets/70834005/cf9acd31-7af8-45e7-81d8-7c181e3abb20" width="200" height="200"/> 
 </p>
-
 
 ## Tell us about the features and technologies you used.
 MilkRoad is a game that aims to make learning about how milk gets to your door easy and fun.
