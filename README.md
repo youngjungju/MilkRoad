@@ -26,10 +26,20 @@ I would like to thank my mother for inspiring me to create this game. I was a ve
 
 To make MilkRoad more immersive, I came up with the idea of following a route through a map and designed the environment to immerse you in the adventures along the way. A friend of mine had the idea that it should have the same tone as a game called "Milkchoochoo", so I kept that in mind and used that game as a reference to set the tone. All of the backgrounds, characters, and items in the game were drawn by me. 
 
-| Start screen |
-|-----------|
-|![Simulator Screenshot - iPad Pro (12 9-inch) (6th generation) - 2024-02-25 at 20 28 21](https://github.com/youngjungju/MilkRoad/assets/70834005/91bbf020-8777-477a-95dc-91ac70269187)|
+| Start screen | Intro Screen | Map screen | Outro screen | End Screen |
+|--------------|--------------|------------|--------------|------------|
+| <img src="https://github.com/youngjungju/MilkRoad/assets/70834005/835fedf2-3074-4fb6-a12e-66b82d69b972" width="480" height="180"/> | <img src="https://github.com/youngjungju/MilkRoad/assets/70834005/99cee878-dc3d-4c21-8825-2186943dc237" width="480" height="180"/> | <img src="https://github.com/youngjungju/MilkRoad/assets/70834005/a8566d7d-62c8-4e54-ac8a-bf57c6e8ddb9" width="480" height="180"/> | <img src="https://github.com/youngjungju/MilkRoad/assets/70834005/fd1bf116-e3c0-441e-9e83-30ffd5ffc325" width="480" height="180"/> | <img src="https://github.com/youngjungju/MilkRoad/assets/70834005/a2c2577f-3e92-4e6e-b2e9-436e4a8fd56f" width="480" height="180"/> |
 
+| GAME 1. Production | GAME 2. Pasteurization | GAME 3. Packaging | GAME 4. Delivery |
+|--------------|-------------|--------------|-------------|
+| <img src="https://github.com/youngjungju/MilkRoad/assets/70834005/7c245b1b-948e-4062-81e2-36b1d43141d5" width="800" height="540"/> | <img src="https://github.com/youngjungju/MilkRoad/assets/70834005/3d38dc2e-7111-4739-9aa9-4faf1014075a" width="800" height="540"/> | <img src="https://github.com/youngjungju/MilkRoad/assets/70834005/5379c387-2f41-4fab-94e7-d5219b4a7c1e" width="800" height="540"/> | <img src="https://github.com/youngjungju/MilkRoad/assets/70834005/48a0fc5c-4b99-42a6-97e8-80c4bf293b48" width="800" height="540"/> |
+
+## Source
+
+Font : [Super Disco](https://www.dafont.com/super-disco.font)
+       [Poetsen One](https://www.dafont.com/poetsen-one.font)
+
+Music : [Birds in Flight](https://www.youtube.com/watch?v=zuUsZy1MHtI)
 
 ## Gameplay
 
